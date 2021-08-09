@@ -28,5 +28,3 @@ rewrites the changes to XML file in done/ dir
 
 
 
-
-# Footprint_Cleanup
